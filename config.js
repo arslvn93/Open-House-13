@@ -111,6 +111,28 @@ const config = {
           "text": "Just gathering information at this stage."
         }
       ]
+    },
+    {
+      "id": "new_question_1",
+      "questionText": "Are you currently exploring homes with anyone else?",
+      "options": [
+        {
+          "value": "new_option_1_0",
+          "text": "Yes"
+        },
+        {
+          "value": "new_option_1_1",
+          "text": "Always"
+        },
+        {
+          "value": "new_option_1_2",
+          "text": "Never"
+        },
+        {
+          "value": "new_option_1_3",
+          "text": "WOW"
+        }
+      ]
     }
   ],
   "deploymentInfo": {
